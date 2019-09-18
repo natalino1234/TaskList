@@ -21,3 +21,9 @@ POST: http://localhost:8080/api/task
 > Remover
 
 DELETE: http://localhost:8080/api/task
+
+## Tecnologias
+
+Linguagem: Java
+Framework: SpringBoot, JPA
+Arquitetura: Microsserviços
